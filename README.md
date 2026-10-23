@@ -36,6 +36,7 @@ I'm passionate about continuous learning and developing skills that connect busi
 - Microsoft PowerPoint
 
 ### 🗄️ Data & Big Data Technologies
+- SQL
 - Hadoop
 - RapidMiner
 
@@ -55,6 +56,23 @@ I'm passionate about continuous learning and developing skills that connect busi
 
 ## 📌 Featured Projects
 
+### 🛍️ Returns Feature – Q1 | Agile Business Analysis with Jira
+
+**Tools:** Jira Software · Microsoft Excel · GitHub
+
+An Agile Business Analysis project focused on planning an e-commerce returns feature using Jira. The project demonstrates user story development, acceptance criteria definition, MoSCoW prioritisation, story point estimation, backlog management, and sprint planning.
+
+**Key deliverables:**
+- 📝 Eight user stories covering the e-commerce returns process
+- ✅ Acceptance criteria using the Given–When–Then (Gherkin) format
+- 🎯 MoSCoW prioritisation of requirements
+- 📊 Story point estimation
+- 🏃 Sprint planning with four Must Have stories and 20 story points
+- 📸 Jira backlog and sprint board screenshots
+- 📂 Excel workbook documenting user stories, acceptance criteria, and Jira project evidence
+
+🔗 **[View Returns Feature – Q1 Agile BA Project →](https://github.com/Hridia-Christeen-Binu/returns-feature-agile-business-analysis)**
+
 ### 🛍️ E-commerce Returns Management
 
 **Focus:** Business Analysis · Requirements Documentation · Wireframing
@@ -68,7 +86,7 @@ A project-based case study documenting a proposed e-commerce returns feature, wi
 - Customer journey wireframes
 - Stakeholder responsibilities and risk assessment
 
-🔗 [View E-commerce Returns Management →](https://github.com/Hridia-Christeen-Binu/Ecommerce-returns-management)
+🔗 **[View E-commerce Returns Management →](https://github.com/Hridia-Christeen-Binu/Ecommerce-returns-management)**
 
 ### 💰 HUL Working Capital & FP&A Analysis
 
@@ -83,7 +101,7 @@ A financial analysis project using Hindustan Unilever Limited's annual reports t
 - Financial KPIs and peer benchmarking
 - Scenario analysis and management insights
 
-🔗 [View HUL Working Capital & FP&A Analysis →](https://github.com/Hridia-Christeen-Binu/HUL-Working-Capital-FP-A-Analysis)
+🔗 **[View HUL Working Capital & FP&A Analysis →](https://github.com/Hridia-Christeen-Binu/HUL-Working-Capital-FP-A-Analysis)**
 
 ---
 
@@ -110,7 +128,3 @@ I'm particularly interested in opportunities across business analysis, analytics
 🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/hridia-christeen-binu/)
 
 💻 **GitHub:** [Explore my projects](https://github.com/Hridia-Christeen-Binu)
-
----
-
-⭐ Thanks for visiting my profile! I'm always happy to learn, collaborate, and explore new ideas.
