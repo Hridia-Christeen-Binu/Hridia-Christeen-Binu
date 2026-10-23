@@ -1,109 +1,111 @@
-# 👋 Hi, I'm Hridia Christeen Binu
+# 👋 Hi, I'm Hridia Christeen Binu!
 
-### 📊 Aspiring Data & Business Analyst | MBA Business Analytics
+### 📌 Aspiring Business Analyst | Strong Interest in Data Analytics & Business Intelligence
 
-I’m an MBA graduate in Business Analytics with a strong interest in **data analysis, business intelligence, financial analysis, and data-driven decision-making**.
+I'm an MBA graduate in Business Analytics with a strong interest in **business analysis, data analytics, and data-driven decision-making**. I enjoy understanding business problems, analysing data, documenting requirements, and translating business needs into practical insights and solutions.
 
-I enjoy transforming raw data into meaningful insights, building analytical solutions, and creating dashboards that help businesses make better decisions.
+I'm passionate about continuous learning and developing skills that connect business strategy with technology. Through my projects, I explore business requirements documentation, process improvement, financial analysis, and data visualisation to understand how organisations can make better decisions.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 MBA in Business Analytics
-- 📊 Aspiring Data & Business Analyst
-- 💼 Interested in Big 4 analytical and consulting roles
-- 💰 Interested in Financial Analysis and FP&A
-- 📈 Passionate about Business Intelligence and Data Visualization
-- 🧮 Advanced Excel
-- 🗄️ SQL / MySQL
-- 📊 Power BI
-- 🐍 Python for Data Analysis
+- 🎓 MBA in Business Analytics — SRM Institute of Science and Technology
+- 📌 Aspiring Business Analyst with a strong interest in data
+- 📊 Interested in business intelligence, data analysis, and reporting
+- 📝 Exploring requirements gathering, BRD/FRD documentation, and user stories
+- 🤝 Interested in stakeholder coordination, process improvement, and project delivery
+- 💰 Passionate about financial analysis, FP&A, and working capital management
+- 🌱 Always learning new tools and applying my knowledge through practical projects
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Toolkit
 
-### 📊 Data Analysis
-- Microsoft Excel
-- SQL / MySQL
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-
-### 📈 Business Intelligence
+### 📊 Data Analysis & Visualisation
+- Advanced Microsoft Excel
 - Power BI
-- Dashboard Development
-- Data Visualization
-- KPI Analysis
-- Business Reporting
+- Tableau
 
-### 💰 Business & Finance
-- Financial Analysis
-- FP&A
-- Working Capital Analysis
-- Cash Conversion Cycle
-- Financial Modeling
-- Business Analysis
-- Management Reporting
-- Data-driven Decision Making
+### 📝 Business Analysis & Project Tools
+- Jira
+- Lucidchart
+
+### 💻 Productivity & Documentation
+- Microsoft Word
+- Microsoft PowerPoint
+
+### 🗄️ Data & Big Data Technologies
+- Hadoop
+- RapidMiner
 
 ---
 
-## 📊 Featured Project
+## 💡 Areas of Interest
+
+- Business Analysis and Requirements Gathering
+- Data Analytics and Business Intelligence
+- Data Visualisation and KPI Reporting
+- Process Mapping and Improvement
+- Financial Analysis and FP&A
+- Project Planning and Stakeholder Coordination
+- Data-Driven Business Decision-Making
+
+---
+
+## 📌 Featured Projects
+
+### 🛍️ E-commerce Returns Management
+
+**Focus:** Business Analysis · Requirements Documentation · Wireframing
+
+A project-based case study documenting a proposed e-commerce returns feature, with a focus on customer workflows, return eligibility, and refund-status tracking.
+
+**Key deliverables:**
+- Business Requirements Document (BRD)
+- Functional and non-functional requirements
+- Requirements Traceability Matrix (RTM)
+- Customer journey wireframes
+- Stakeholder responsibilities and risk assessment
+
+🔗 [View E-commerce Returns Management →](https://github.com/Hridia-Christeen-Binu/Ecommerce-returns-management)
 
 ### 💰 HUL Working Capital & FP&A Analysis
 
-**Tools:** Excel • Power BI
+**Tools:** Excel · Power BI
 
-An end-to-end FP&A and working capital analysis project based on Hindustan Unilever Limited's Integrated Annual Reports.
+A financial analysis project using Hindustan Unilever Limited's annual reports to examine working capital efficiency, liquidity, profitability, and potential cash-flow improvements.
 
-The project analyzes:
+**Key areas explored:**
+- Working capital and liquidity analysis
+- Inventory, receivables, and payables
+- Cash Conversion Cycle (CCC)
+- Financial KPIs and peer benchmarking
+- Scenario analysis and management insights
 
-- Short-term liquidity
-- Working capital efficiency
-- Inventory, receivables and payables
-- Cash generation
-- Profitability
-- Segment performance
-- Cash conversion cycle
-- Scenario analysis
-- Financial KPIs
-- Management insights
-
-🔗 **[View HUL Working Capital & FP&A Analysis Project →](https://github.com/Hridia-Christeen-Binu/HUL-Working-Capital-FP-A-Analysis)**
+🔗 [View HUL Working Capital & FP&A Analysis →](https://github.com/Hridia-Christeen-Binu/HUL-Working-Capital-FP-A-Analysis)
 
 ---
 
-## 📌 What I'm Currently Building
+## 🚀 What I'm Working Towards
 
-- 📊 Business Intelligence dashboards
-- 💰 Financial & FP&A analysis projects
-- 🧮 Advanced Excel analytical models
-- 🗄️ SQL business analysis projects
-- 🐍 Python data analysis projects
-- 📈 End-to-end business analytics projects
+- 📊 Building insightful dashboards and analytical reports
+- 📝 Developing business analysis documentation and process workflows
+- 💰 Exploring financial modelling and FP&A
+- 📈 Applying data analysis to practical business problems
+- 🌱 Continuously improving my technical and professional skills
 
 ---
 
 ## 🎯 Career Goal
 
-I am working toward a career in **Data Analytics, Business Analytics, Financial Analysis, Business Intelligence, and FP&A**.
+My goal is to build a career as a **Business Analyst**, combining my understanding of business processes with my interest in data analytics and technology. I want to help organisations identify problems, understand requirements, improve processes, and make informed decisions using data.
 
-My goal is to combine my business education with analytical skills to solve real-world business problems, generate actionable insights, and support data-driven decision-making.
-
-I am particularly interested in **Big 4 and professional services organizations** where I can apply analytics to business and financial problems.
+I'm particularly interested in opportunities across business analysis, analytics, consulting, and professional services where I can contribute, collaborate, and continue growing.
 
 ---
 
-## 📚 Analytics Toolkit
-
-**Excel** • **SQL** • **Power BI** • **Python** • **Pandas** • **Matplotlib** • **Seaborn**
-
----
-
-## 📫 Connect With Me
+## 📫 Let's Connect!
 
 🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/hridia-christeen-binu/)
 
@@ -111,4 +113,4 @@ I am particularly interested in **Big 4 and professional services organizations*
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! I'm always happy to learn, collaborate, and explore new ideas.
